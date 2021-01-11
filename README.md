@@ -1,5 +1,6 @@
 # cka
 Learning about Kubernetes
+Wanting to learn how to version control projects with git.
 
 # CKA (Project Title)
 
